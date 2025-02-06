@@ -128,7 +128,7 @@ If the conditions are met and the error still occurs, please start ESTÉ with th
 <h1 align="center"></h1>
 
 #### Genome editor
-![Screenshot3b](https://user-images.githubusercontent.com/73127001/229313813-c9ce70e2-d61f-4745-b64f-ada0b6758901.jpg)
+![Screenshot3b](https://media.discordapp.net/attachments/1335950167005855794/1337095126731849829/aae50a37-691d-4479-bffc-239f00521a3b.jpg?ex=67a63260&is=67a4e0e0&hm=1220370948ba8b894db18331dd796da00480d43c83b525ae86ea65844c4280a3&=&format=webp&width=832&height=468)
 
 ### 🧩 Contributing to the project
 Contributions to the project are very welcome. The most convenient way is to communicate via [GitHub Issues](https://github.com/esteai/esteai/issues), [Pull requests](https://github.com/esteai/esteai/pulls) or the [Discussion forum](https://github.com/esteai/esteai/discussions) depending on the subject. For example, it could be
