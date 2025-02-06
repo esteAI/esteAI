@@ -113,17 +113,17 @@ If the conditions are met and the error still occurs, please start ESTÉ with th
 
 ### 🌌 Screenshots
 #### Different plant-like populations around a radiation source
-![Screenshot1](https://user-images.githubusercontent.com/73127001/229311601-839649a6-c60c-4723-99b3-26086e3e4340.jpg)
+![Screenshot1](https://media.discordapp.net/attachments/1335950167005855794/1337096126288892056/ea74a8d2-9a91-40dc-a5f2-c03270eae932.jpg?ex=67a6334e&is=67a4e1ce&hm=a0d37b3d9c883d7ba07cab5b207e0af6665add1c00409e37556a4a699aea0083&=&format=webp&width=832&height=468)
 
 <h1 align="center"></h1>
 
 #### Close-up of different types of organisms so that their cell networks can be seen
-![Screenshot2](https://user-images.githubusercontent.com/73127001/229311604-3ee433d4-7dd8-46e2-b3e6-489eaffbda7b.jpg)
+![Screenshot2](https://media.discordapp.net/attachments/1335950167005855794/1337095809308819548/2acaf04d-7630-40d6-9383-39a03b2f99c9.jpg?ex=67a63302&is=67a4e182&hm=310a8474159297fb7600611248cf06257997f693822b15e704694e156df6d575&=&format=webp&width=832&height=468)
 
 <h1 align="center"></h1>
 
 #### Different swarms attacking an ecosystem
-![Screenshot3](https://user-images.githubusercontent.com/73127001/229311606-2f590bfb-71a8-4f71-8ff7-7013de9d7496.jpg)
+![Screenshot3](https://media.discordapp.net/attachments/1335950167005855794/1337095490629668915/d9d5e698-f24f-4ce0-a6a7-21f74173fb43.jpg?ex=67a632b6&is=67a4e136&hm=29d1f3a4838bd55c89db187167c819f457f6802d8d87f2721cc482f3597079f1&=&format=webp&width=832&height=468)
 
 <h1 align="center"></h1>
 
