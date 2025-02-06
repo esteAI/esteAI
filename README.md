@@ -1,8 +1,10 @@
+![Preview](https://pbs.twimg.com/profile_banners/1887503644230307840/1738851754/1500x500)
+
+
 <h1 align="center">
  esté - pushing the boundaries of intelligence, automation, and human potential.</a>
 </h1>
 
-![Preview](https://pbs.twimg.com/profile_banners/1887503644230307840/1738851754/1500x500)
 
 <p>
 Our project redefines possibilities, pushing the boundaries of intelligence, automation, and human potential. This is more than technology—it’s a revolution. <b>(ESTÉ)</b> is an artificial life simulation tool based on a specialized 2D particle engine in CUDA for soft bodies and fluids. Each simulated body consists of a network of particles that can be upgraded with higher-level functions, ranging from pure information processing capabilities to physical equipment (such as sensors, muscles, weapons, constructors, etc.) whose executions are orchestrated by neural networks. The bodies can be thought of as agents or digital organisms operating in a common environment. Their blueprints can be stored in genomes and passed on to offspring.
