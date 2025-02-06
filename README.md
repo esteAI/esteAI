@@ -17,7 +17,7 @@ An important goal is to make the simulator user-friendly through a modern user i
   Please follow our X/Twitter <a href="https://x.com/esteartificial" target="_blank">X</a> as a place for discussions, new developments and feedback around ESTÉ and artificial life in general.
 </p>
 
-# ⚡ Main features
+#  Main features
 ### Physics and graphics engine
 - Particles for simulating soft and rigid body mechanics, fluids, heat dissipation, damage, adhesion etc.
 - Real-time user interactions with running simulations
@@ -44,22 +44,22 @@ An important goal is to make the simulator user-friendly through a modern user i
 - Download and upload simulation files
 - Upvote simulations by giving stars
 
-# ❓ But for what is this useful
+###  How is this useful?
 - A first attempt to answer: Feed your curiosity by watching evolution at work! As soon as self-replicating machines come into play and mutations are turned on, the simulation itself does everything.
 - Perhaps the most honest answer: Fun! It is almost like a game with a pretty fast and realistic physics engine. You can make hundreds of thousands of machines accelerate and destroy with the mouse cursor. It feels like playing god in your own universe with your own rules. Different render styles and a visual editor offer fascinating insights into the events.
   
 - A more academic answer: A tool to tackle fundamental questions of how complexity or life-like structure may arise from simple components. How do entire ecosystems adapt to environmental changes and find a new equilibrium? How to find conditions that allow open-ended evolution?
 - A tool for generative art: Evolution is a creative force that leads to ever new forms and behaviors.
 
-# 📘 Documentation
+### Documentation
 The latest version includes a brief documentation and user guidance in the program itself via help windows and tooltips.
 
-# 🖥️ Minimal system requirements
+### Minimal system requirements
 An Nvidia graphics card with compute capability 6.0 or higher is needed. Please check [https://en.wikipedia.org/wiki/CUDA#GPUs_supported](https://en.wikipedia.org/wiki/CUDA#GPUs_supported).
 
 In the case that the program crashes for an unknown reason, please refer to the troubleshooting section below.
 
-# 🔨 How to build the sources
+### 🔨 How to build the sources
 The build process is mostly automated using the cross-platform CMake build system and the vcpkg package manager, which is included as a Git submodule.
 
 ### Getting the sources
@@ -86,7 +86,7 @@ There are reported build issues with (updated: 2025-02-06)
 * Visual Studio 17.10 (version 17.9 should work)
 * CUDA 12.5 (version 12.4 should work)
 
-# ⌨️ Command-line interface
+### ⌨️ Command-line interface
 
 This repository also contains a CLI for ESTÉ. It can be used to run simulations without using a GUI. This is useful for performance measurements as well as for automatic execution and evaluation of simulations for different parameters.
 The CLI takes the simulation file, along with its parameters and the number of time steps, as input. It then provides the resulting simulation file and the statistics (as a CSV file) as output.
@@ -96,7 +96,7 @@ For example,
 ```
 runs the simulation file `example.sim` for 1000 time steps.
 
-# 🔎 Troubleshooting
+### 🔎 Troubleshooting
 
 Please make sure that:
 1) You have an NVIDIA graphics card with compute capability 6.0 or higher (for example GeForce 10 series).
@@ -109,7 +109,7 @@ Please make sure that:
 If these conditions are not met, ESTÉ may crash unexpectedly.
 If the conditions are met and the error still occurs, please start ESTÉ with the command line parameter `-d`, try to reproduce the error and then create a GitHub issue on https://github.com/chrxh/esteai/issues where the log.txt is attached.
 
-# 🌌 Screenshots
+### 🌌 Screenshots
 #### Different plant-like populations around a radiation source
 ![Screenshot1](https://user-images.githubusercontent.com/73127001/229311601-839649a6-c60c-4723-99b3-26086e3e4340.jpg)
 
@@ -128,15 +128,15 @@ If the conditions are met and the error still occurs, please start ESTÉ with th
 #### Genome editor
 ![Screenshot3b](https://user-images.githubusercontent.com/73127001/229313813-c9ce70e2-d61f-4745-b64f-ada0b6758901.jpg)
 
-# 🧩 Contributing to the project
+### 🧩 Contributing to the project
 Contributions to the project are very welcome. The most convenient way is to communicate via [GitHub Issues](https://github.com/esteai/esteai/issues), [Pull requests](https://github.com/esteai/esteai/pulls) or the [Discussion forum](https://github.com/esteai/esteai/discussions) depending on the subject. For example, it could be
 - Providing new content (simulation or genome files)
 - Producing or sharing media files
 - Reporting of bugs, wanted features, questions or feedback via GitHub Issues or in the Discussion forum.
 - Pull requests for bug fixes, code cleanings, optimizations or minor tweaks. If you want to implement new features, refactorings or other major changes, please use the [Discussion forum](https://github.com/esteai/esteai/discussions) for consultation and coordination in advance.
 
-# 💎 Credits and dependencies
+### 💎 Credits and dependencies
 
 ESTÉ has been initiated, mainly developed and maintained by [Christian Heinemann](mailto:heinemann.christian@gmail.com). Many thanks to everyone who has contributed to this project in any way. 
-# 🧾 License
+### 🧾 License
 ESTÉ is licensed under the [BSD 3-Clause](LICENSE) license.
