@@ -110,7 +110,7 @@ Please make sure that:
 6) If you possess both integrated and dedicated graphics cards, please ensure that the este-executable is configured to use your high-performance graphics card. On Windows you need to access the 'Graphics settings,' add 'esteai.exe' to the list, click 'Options,' and choose 'High performance'.
 
 If these conditions are not met, ESTÉ may crash unexpectedly.
-If the conditions are met and the error still occurs, please start ESTÉ with the command line parameter `-d`, try to reproduce the error and then create a GitHub issue on https://github.com/chrxh/esteai/issues where the log.txt is attached.
+If the conditions are met and the error still occurs, please start ESTÉ with the command line parameter `-d`, try to reproduce the error and then create a GitHub issue on https://github.com/esteai/esteai/issues where the log.txt is attached.
 
 ### 🌌 Screenshots
 #### Different plant-like populations around a radiation source
