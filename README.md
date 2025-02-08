@@ -7,8 +7,9 @@
 
 
 <p>
-Our project redefines possibilities, pushing the boundaries of intelligence, automation, and human potential. This is more than technology—it’s a revolution. <b>(ESTÉ)</b> is an artificial life simulation tool based on a specialized 2D particle engine in CUDA for soft bodies and fluids. Each simulated body consists of a network of particles that can be upgraded with higher-level functions, ranging from pure information processing capabilities to physical equipment (such as sensors, muscles, weapons, constructors, etc.) whose executions are orchestrated by neural networks. The bodies can be thought of as agents or digital organisms operating in a common environment. Their blueprints can be stored in genomes and passed on to offspring.
-</p>
+Our project pushes the boundaries of intelligence, automation, and human potential—more than just technology, it’s a revolution.
+
+<b>ESTÉ</b> is an advanced artificial life simulation tool powered by a specialized 2D particle engine in CUDA, designed for soft bodies and fluid dynamics. Each simulated entity consists of a dynamic network of particles that can be enhanced with higher-level functions, from pure information processing to physical components like sensors, muscles, weapons, and constructors—all coordinated by neural networks. These entities function as digital organisms, interacting within a shared environment, with their structures encoded in genomes and inherited by future generations.
 <p>
 The simulation code is written entirely in CUDA and optimized for large-scale real-time simulations with millions of particles.
 The development is driven by the desire to better understand the conditions for (pre-)biotic evolution and the growing complexity of biological systems.
