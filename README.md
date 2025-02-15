@@ -1,6 +1,6 @@
 <h1 align="center">
 
- ![Preview](https://media.discordapp.net/attachments/1332530351175630900/1340083451428077649/Heading_2.png?ex=67b11178&is=67afbff8&hm=4ccb76c742c97305da4d4f29326d131bb6f176995891d8e9c8f67adacb79821f&=&format=webp&quality=lossless&width=832&height=468)
+ ![Preview](https://pbs.twimg.com/profile_banners/1887503644230307840/1739594631/1500x500)
 
 </h1>
 
